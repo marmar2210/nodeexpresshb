@@ -6,7 +6,7 @@ https://radiant-harbor-86902.herokuapp.com/
 
 ## Instructions
 
-When you placing an order at the top, the burger name entered in the form field is added to the list of burgers on the left side of the screen, under "New Burgers." Each burger in the list has a "Devour Me" button. Clicking this button moves the burger from the list on the left side of the screen to the list on the right. Whenever inputting new burger names, or pushing the "devour me" button, the database is updated, therefore whever the user revisits the page, the information is current and up to date.
+When you placing an order at the top, the burger name entered in the form field is added to the list of burgers on the left side of the screen, under "New Burgers." Each burger in the list has a "Eat It" button. Clicking this button moves the burger from the list on the left side of the screen to the list on the right. Whenever inputting new burger names, or pushing the "remove" button, the database is updated.
 ```bash
 Working App
 
