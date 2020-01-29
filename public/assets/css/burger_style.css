@@ -1,0 +1,9 @@
+body {
+  background: url("../images/Burger.png");
+  font-family: "Fugaz One", cursive;
+  font-size: 18px;
+}
+
+.card {
+  padding: 2px;
+}
