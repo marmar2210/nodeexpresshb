@@ -1,5 +1,6 @@
 # nodeexpresshb
 The burger app is a logger that keeps track of all the burgers in the database. The user is able to get all the burgers in the database, modify their "devour" state, and add new ones. This app was made possible by utilizing the MVC model, and making use of MySQL, Node.js, Express, Handlebars, and the ORM.
+
 Technologies used
 Node.js
 MySQL
